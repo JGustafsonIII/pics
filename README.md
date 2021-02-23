@@ -10,5 +10,5 @@ If you want to mess around with the application then start by running `git clone
 
 ### If you'd like to learn more on the subject
 
-- [Modern React with Redux Couse](https://www.udemy.com/share/101WcYCUISdVdRQQ==/)
+- [Modern React with Redux Course](https://www.udemy.com/share/101WcYCUISdVdRQQ==/)
 - [React Lifecycle and State Documentation](https://reactjs.org/docs/state-and-lifecycle.html)
